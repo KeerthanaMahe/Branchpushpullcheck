@@ -8,5 +8,7 @@ public class Computer {
 	Computer c=new Computer();
 	c.computerModel();
 
+	System.out.println("check 3");
+	System.out.println("check 4");
 }
 }
