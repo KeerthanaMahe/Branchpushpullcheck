@@ -11,5 +11,7 @@ public class Computer {
 	System.out.println("check 1");
 	System.out.println("check 2");
 
+	System.out.println("check 3");
+	System.out.println("check 4");
 }
 }
